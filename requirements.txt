@@ -2,7 +2,3 @@ streamlit
 google-genai
 firebase-admin
 pyrebase4
-python-pptx
-pydub
-imageio-ffmpeg
-Pillow
